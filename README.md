@@ -1,16 +1,39 @@
-## Hi there 👋
+# Привет! Я начинающий Python-разработчик 👋
 
-<!--
-**ziaszere-del/ziaszere-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я изучаю программирование и создаю практические проекты на Python. Интересуюсь автоматизацией бизнес-процессов, разработкой Telegram-ботов и созданием цифровых решений для бизнеса.
 
-Here are some ideas to get you started:
+Моя цель — разрабатывать полезные инструменты, которые помогают предпринимателям экономить время и упрощать повседневные задачи.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Чем я занимаюсь
+
+- Разрабатываю Telegram-ботов для бизнеса
+- Изучаю Python и Backend Development
+- Работаю с базами данных
+- Создаю проекты для автоматизации процессов
+
+### 🛠 Технологии и инструменты
+
+- Python
+- Telegram Bot API
+- SQLite
+- Git и GitHub
+- Visual Studio Code
+
+### 📂 Мои проекты
+
+**SmartOrder** — Telegram-бот для автоматизации заказов в интернет-магазинах.
+
+[Посмотреть проект на GitHub](https://github.com/ziaszere-del/telegram-bot-portfolio)
+
+Другие проекты находятся в разработке.
+
+### 🎯 Мои цели
+
+- Создавать качественные и удобные решения для бизнеса
+- Развивать навыки Python-разработки
+- Работать над реальными проектами
+- Постоянно изучать новые технологии
+
+---
+
+*Учусь, создаю и совершенствуюсь с каждым проектом.*
